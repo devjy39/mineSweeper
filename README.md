@@ -13,6 +13,7 @@
 ## :link: 바로 가기
 * [지뢰찾기 플레이 하러 가기](https://minesweeper-2283e.firebaseapp.com/)
 * [REST API Documentations](https://minesweeper.hanjoon.dev/minesweeper/swagger-ui/index.html) (swagger)
+* [프로젝트 문서](https://www.notion.so/jyeol/Mine-sweeper-726e74e08bcd4ca0aad0b82619d13305)
 * Repositories:
   * [wooseokc/zb-Team-FE](https://github.com/wooseokc/zb-Team-FE) (frontend)
   * [hanjoondev/minesweeper](https://github.com/hanjoondev/minesweeper) (backend)
